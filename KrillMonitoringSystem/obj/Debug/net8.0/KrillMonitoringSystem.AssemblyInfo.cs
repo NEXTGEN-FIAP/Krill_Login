@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KrillMonitoringSystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9c204415dfe34c3119f1be17b96bda264c08a99b")]
 [assembly: System.Reflection.AssemblyProductAttribute("KrillMonitoringSystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KrillMonitoringSystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
